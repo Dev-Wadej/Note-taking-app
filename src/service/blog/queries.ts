@@ -1,4 +1,5 @@
 import { createQuery } from "../api/query";
+import { BlogPostType } from "./types";
 
 export const getPostKey = ["get-post-key"];
 
